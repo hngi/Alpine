@@ -1,5 +1,3 @@
-
-
 Task 3 - Devops - Server Setup And Autodeploy
 
 Create a repo for your team on hng6i github organization
@@ -24,8 +22,8 @@ Document your process in a lucid post, including how to test your deployment and
 
 Once done, DM any of the devops mentors for review.
 
-
 # Alpine
+
 Stage 3 task for the Alpines
 
 #Team Leader
@@ -35,3 +33,10 @@ Stage 3 task for the Alpines
 @nsikak
 @ce0la
 @Naleville
+@ontop
+@e770r
+@Lewikeezy
+@Collins169
+@kaydon1
+@slimake
+@malico
