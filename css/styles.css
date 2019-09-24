@@ -84,9 +84,12 @@ a:hover {
     
 .heading {
     color: #01856d;
-    margin: auto;
-    width: 20rem;
+    text-align: center;
+    width: 100%;
     margin-top: .5rem;
+}
+a.mi {
+    display: none;
 }
 @media (max-width: 1200px) {
     a {
@@ -100,5 +103,12 @@ a:hover {
         }
 }
 @media (max-width: 460px) {
-
+    li a[href='#'] {
+        display: none;
+    }
+    a.mi {
+        display: block;
+        margin-left: .5rem;
+    }
+    
 }
